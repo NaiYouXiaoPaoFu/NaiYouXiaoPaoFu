@@ -30,7 +30,7 @@
 ---
 <div align="center" style="display: flex; justify-content: center; width: 100%;">
   <img 
-    src=""C:\Users\胡永帅2007\Desktop\1763649412861.jpg"" 
+    src="""C:\Users\胡永帅2007\Desktop\preview.gif""" 
     alt="户外角色" 
     style="width: 45%; height: 550px; object-fit: cover; margin: 0 10px;"
   />
