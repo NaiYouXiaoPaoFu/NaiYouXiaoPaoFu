@@ -35,13 +35,6 @@
 </div>
 
 ---
-
-### 💻 My Coding Activity (WakaTime)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xxs588/xxs588/main/dist/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
-
 <div align="center" style="display: flex; justify-content: center; width: 100%;">
   <img 
     src=""C:\Users\胡永帅2007\Desktop\1763649412861.jpg"" 
